@@ -1,3 +1,4 @@
+[←](//momonorthy.github.io/article)
 今天就要学习 **词类的划分**！词类的划分在英语中**可难了**,但是在Esperanto就很简单啊！
 ```
 名词，表示事物的名称，词尾为-o：如 letero（信），foto（照片），telefono（电话），lando（国家）。
