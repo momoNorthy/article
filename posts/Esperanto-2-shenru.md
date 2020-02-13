@@ -33,7 +33,7 @@ scii（知道，了解，动词）→ scio（知识，名词）
 
 en（在…里）：en domo（在房子里）
 sub（在…下）：sub arbo （在树下）
-sur（在…上）：sur tablo（在桌子上）
+sur（在…上）：sur tablo（在桌子上）.
 de（…的）komencanto de Esperanto（Esperanto的初学者）
 ```
 特别讲解一下de……的使用。特别加粗！<br>
