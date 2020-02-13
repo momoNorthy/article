@@ -1,4 +1,4 @@
-[←](//momonorthy.github.io/article)<br>
+[<Blogo de Mailj](//momonorthy.github.io/article)<br>
 # 老板键的使用
 在“偷玩”电脑的时候，想有一个按键让360浏览器隐藏掉。这是什么按键呢？是老板键。<br>
 设置方法：
