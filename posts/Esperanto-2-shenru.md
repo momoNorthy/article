@@ -144,3 +144,4 @@ evoluo 发展，演化
 ```
 还可以听__录音__: [here](http://reto.cn/kurso/sono/leciono02/vortolisto.mp3)<br>
 byebye，这里是Mily——一个热爱编程和高数的13岁男孩，那么我们下次再见！
+[快速评论](https://github.com/momoNorthy/article/issues/2)
